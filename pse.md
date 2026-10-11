@@ -66,7 +66,7 @@
         </svg>
       </a>
       <span class="subaction-divider" aria-hidden="true"></span>
-      <a class="suburl" href="https://scgo365.sharepoint.com/:x:/r/sites/DO-ResourceManagement781-2026/_layouts/15/Doc.aspx?sourcedoc=%7B4B6DF829-33EE-4F99-B98C-71595D5368C1%7D&file=DO%20Workforce%20-%203%20PSE.xlsx&action=default&mobileredirect=true" target="_blank" rel="noopener noreferrer" title="Workforce data input file" aria-label="Open workforce data input file in a new tab">
+      <a class="suburl" href="https://scgo365.sharepoint.com/:x:/r/sites/DO-ResourceManagement781-2026/Shared%20Documents/2026/DO%20Workforce/BKUP/Q3/Q3%20DO%20Workforce%20-%203%20PSE.xlsx?d=we6d0e26a639d4da6a4c8a4aebd07b926&csf=1&web=1&e=ZyXEBM" target="_blank" rel="noopener noreferrer" title="Workforce data input file" aria-label="Open workforce data input file in a new tab">
         <img src="svg/menu-excel.svg" alt="">
       </a>
     </span>
